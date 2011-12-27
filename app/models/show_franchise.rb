@@ -1,0 +1,2 @@
+class ShowFranchise < Franchise
+end

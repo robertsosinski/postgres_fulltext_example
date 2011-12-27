@@ -1,0 +1,2 @@
+class MovieFranchise < Franchise
+end

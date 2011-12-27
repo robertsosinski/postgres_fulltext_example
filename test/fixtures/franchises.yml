@@ -1,0 +1,53 @@
+one:
+  id: 1
+  type: MovieFranchise
+  name: "Mad Max 2: The Road Warrior"
+  description: "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline rich, community escape a band of bandits."
+
+two:
+  id: 2
+  type: MovieFranchise
+  name: Avatar
+  description: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+
+three:
+  id: 3
+  type: MovieFranchise
+  name: Blade
+  description: "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires."
+
+four:
+  id: 4
+  type: MovieFranchise
+  name: Blade Runner
+  description: "Deckard, a blade runner, has to track down and terminate 4 replicants who hijacked a ship in space and have returned to earth seeking their maker."
+
+five:
+  id: 5
+  type: MovieFranchise
+  name: Vampires
+  description: "A vengeful vampire slayer must retrieve an ancient Catholic relic that, should it be acquired by vampires, will allow them to endure sunlight."
+
+six:
+  id: 6
+  type: ShowFranchise
+  name: Buffy the Vampire Slayer
+  description: "After the traumatizing ordeal in the movie with the same name, Buffy Summers and her mother move to Sunnydale, only to discover that L.A. was just a walk in the park."
+
+seven:
+  id: 7
+  type: MovieFranchise
+  name: The Road
+  description: A post-apocalyptic tale of a man and his son trying to survive by any means possible.
+
+eight:
+  id: 8
+  type: ShowFranchise
+  name: The Colony
+  description: Ten cast members try to survive in an environment that simulates life after a global catastrophe.
+
+nine:
+  id: 9
+  type: MovieFranchise
+  name: "Food, Inc."
+  description: An unflattering look inside America's corporate controlled food industry.
